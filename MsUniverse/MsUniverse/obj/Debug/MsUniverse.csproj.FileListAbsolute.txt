@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\bin\Debug\MsUniverse.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\bin\Debug\MsUniverse.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\bin\Debug\MsUniverse.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.Form1.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.Properties.Resources.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\MsUniverse\MsUniverse\obj\Debug\MsUniverse.pdb
